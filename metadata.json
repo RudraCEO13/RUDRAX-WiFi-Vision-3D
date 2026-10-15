@@ -1,0 +1,6 @@
+{
+  "name": "RUDRAX WiFi Vision 3D",
+  "description": "AI-Powered Wi-Fi Analyzer with Augmented Reality 3D Visualization by RudraX Technologies Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
